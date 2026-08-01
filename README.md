@@ -1,2 +1,2 @@
-# ESG-Data-Quality-Analysis-at-WM
-Analysed ESG data using Excel, Pivot tables, pivot charts and data quality metrics to assess completeness, accuracy, consistency and reporting timeliness.
+This Project aimed to evaluate the quality and reliability of ESG reporting data at WM(Waste management)and identify areas for improvement. 
+I analysed 2035 ESG data set to assess the data quality across five critical sustainability metrics: Carbon Emissions, ESG Metric, ESG Target and ESG actual and the reporting performance for the period of 2025 -2026
