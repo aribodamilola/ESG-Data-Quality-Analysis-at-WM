@@ -1,7 +1,7 @@
 This Project aimed to evaluate the quality and reliability of ESG reporting data at WM(Waste management)and identify areas for improvement. 
 I analysed 2035 ESG data set to assess the data quality across five critical sustainability metrics: Carbon Emissions, ESG Metric, ESG Target and ESG actual and the reporting performance for the period of 2025-2026
 ## Dashboard Preview
-![Dashboard](ESGdashboard.png)
+![Dashboard](ESGdashboard.png.jpg)
 # ESG Data Quality Analysis at WM
 
 ## Executive Summary
@@ -32,7 +32,7 @@ The dataset contains ESG performance information for 2025, including:
 
 ## Dashboard Preview
 
-![Dashboard](ESGdashboard.png)
+![Dashboard](ESGdashboard.png.jpg)
 
 ## Key Insights
 - The actual Carbon emissions exceeded targets in both 2025 and 2026.
